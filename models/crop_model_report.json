@@ -1,0 +1,24 @@
+{
+  "dataset": "Crop Recommendation Dataset (Kaggle, atharvaingle)",
+  "source_csv": "Crop_recommendation.csv",
+  "rows": 2200,
+  "features": [
+    "N",
+    "P",
+    "K",
+    "temperature",
+    "humidity",
+    "ph",
+    "rainfall"
+  ],
+  "classes": 22,
+  "rows_per_class_min_max": [
+    100,
+    100
+  ],
+  "model": "DecisionTreeClassifier(max_depth=10)",
+  "holdout_test_accuracy": 0.9636,
+  "cv5_accuracy_mean": 0.985,
+  "cv5_accuracy_std": 0.0067,
+  "trained_on": "2026-11-24"
+}

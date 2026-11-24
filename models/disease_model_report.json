@@ -1,0 +1,39 @@
+{
+  "dataset": "PlantVillage color images (spMohanty/PlantVillage-Dataset, raw/color)",
+  "images_total": 54305,
+  "classes": 38,
+  "split": {
+    "train": 43444,
+    "validation": 5430,
+    "test": 5431
+  },
+  "image_size": 64,
+  "epochs_run": 12,
+  "epochs_max": 12,
+  "training_minutes": 40.6,
+  "test_accuracy": 0.9838,
+  "test_macro_f1": 0.9785,
+  "worst_classes_f1": [
+    [
+      "Tomato___Early_blight",
+      0.908
+    ],
+    [
+      "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot",
+      0.929
+    ],
+    [
+      "Tomato___Target_Spot",
+      0.94
+    ],
+    [
+      "Apple___Cedar_apple_rust",
+      0.941
+    ],
+    [
+      "Corn_(maize)___Northern_Leaf_Blight",
+      0.955
+    ]
+  ],
+  "caveat": "Random split: several photos of the same leaf can appear in train and test, so accuracy on new leaves may be lower."
+}

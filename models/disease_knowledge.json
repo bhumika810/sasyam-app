@@ -1,0 +1,637 @@
+{
+ "Apple___Apple_scab": {
+  "cause_en": "Fungus (Venturia inaequalis)",
+  "why_en": "Spores spread in cool, wet spring weather and settle on leaves and fruit.",
+  "cure_en": [
+   "Rake and destroy fallen leaves.",
+   "Prune to open the canopy for air and sunlight.",
+   "Use a recommended fungicide (for example sulphur or captan) as the buds open, following the label dose.",
+   "Repeat spraying every 7–10 days in wet weather."
+  ],
+  "cause_hi": "फफूंद (Venturia inaequalis)",
+  "cure_hi": [
+   "गिरी हुई पत्तियाँ इकट्ठा करके नष्ट करें।",
+   "पेड़ की छंटाई करें ताकि हवा और धूप पहुँचे।",
+   "कलियाँ खुलते समय सल्फर या कैप्टान जैसा फफूंदनाशक लेबल की मात्रा में छिड़कें।",
+   "गीले मौसम में 7–10 दिन में दोबारा छिड़कें।"
+  ],
+  "why_hi": "ठंडे और गीले बसंत के मौसम में बीजाणु पत्तियों और फल पर फैलते हैं।"
+ },
+ "Apple___Black_rot": {
+  "cause_en": "Fungus (Botryosphaeria obtusa)",
+  "why_en": "Infects through wounds and bark, and spreads in warm, wet weather.",
+  "cure_en": [
+   "Cut out dead wood and cankers, 15 cm below the infected part.",
+   "Remove mummified fruit from the tree and ground.",
+   "Spray a copper-based or captan fungicide at the recommended times.",
+   "Keep trees well pruned and avoid wounding the bark."
+  ],
+  "cause_hi": "फफूंद (Botryosphaeria obtusa)",
+  "cure_hi": [
+   "सूखी डालियाँ और घाव वाले हिस्से 15 सेमी नीचे तक काटें।",
+   "पेड़ और ज़मीन से सूखे फल हटाएँ।",
+   "कॉपर या कैप्टान फफूंदनाशक समय पर छिड़कें।",
+   "पेड़ की छंटाई रखें और छाल को चोट से बचाएँ।"
+  ],
+  "why_hi": "घाव और छाल से संक्रमण होता है, और गर्म व गीले मौसम में फैलता है।"
+ },
+ "Apple___Cedar_apple_rust": {
+  "cause_en": "Fungus (Gymnosporangium) that needs both apple and cedar/juniper hosts",
+  "why_en": "Spores travel from nearby juniper trees in spring rain.",
+  "cure_en": [
+   "Remove nearby juniper hosts if possible.",
+   "Spray a recommended fungicide from pink-bud stage until petals fall.",
+   "Plant resistant apple varieties next season."
+  ],
+  "cause_hi": "फफूंद (Gymnosporangium), जो सेब और जुनिपर दोनों पर पलती है",
+  "cure_hi": [
+   "हो सके तो पास के जुनिपर पेड़ हटाएँ।",
+   "गुलाबी कली से पंखुड़ी गिरने तक फफूंदनाशक छिड़कें।",
+   "अगले साल प्रतिरोधी किस्में लगाएँ।"
+  ],
+  "why_hi": "बसंत की बारिश में पास के जुनिपर पेड़ों से बीजाणु उड़कर आते हैं।"
+ },
+ "Apple___healthy": {
+  "cause_en": "No disease detected.",
+  "why_en": "The leaf shows no sign of infection. Healthy plants stay healthy when water, nutrients and spacing are right.",
+  "cure_en": [
+   "Keep watering at the base, not on the leaves.",
+   "Inspect the plant every 2 days.",
+   "Keep weeds and fallen leaves out of the field."
+  ],
+  "cause_hi": "कोई रोग नहीं मिला।",
+  "cure_hi": [
+   "पानी जड़ में दें, पत्तियों पर नहीं।",
+   "हर 2 दिन में पौधे की जाँच करें।",
+   "खरपतवार और गिरी हुई पत्तियाँ खेत से हटाएँ।"
+  ],
+  "why_hi": "पत्ती में कोई संक्रमण नहीं है।"
+ },
+ "Blueberry___healthy": {
+  "cause_en": "No disease detected.",
+  "why_en": "The leaf shows no sign of infection. Healthy plants stay healthy when water, nutrients and spacing are right.",
+  "cure_en": [
+   "Keep watering at the base, not on the leaves.",
+   "Inspect the plant every 2 days.",
+   "Keep weeds and fallen leaves out of the field."
+  ],
+  "cause_hi": "कोई रोग नहीं मिला।",
+  "cure_hi": [
+   "पानी जड़ में दें, पत्तियों पर नहीं।",
+   "हर 2 दिन में पौधे की जाँच करें।",
+   "खरपतवार और गिरी हुई पत्तियाँ खेत से हटाएँ।"
+  ],
+  "why_hi": "पत्ती में कोई संक्रमण नहीं है।"
+ },
+ "Cherry_(including_sour)___Powdery_mildew": {
+  "cause_en": "Fungus (Podosphaera)",
+  "why_en": "White powder grows on leaves in warm days and cool nights, and humid air.",
+  "cure_en": [
+   "Remove and destroy infected shoots.",
+   "Improve air flow with pruning.",
+   "Spray sulphur or a recommended fungicide at first sign, every 10–14 days."
+  ],
+  "cause_hi": "फफूंद (Podosphaera)",
+  "cure_hi": [
+   "संक्रमित टहनियाँ हटाकर नष्ट करें।",
+   "छंटाई से हवा का बहाव सुधारें।",
+   "पहला लक्षण दिखते ही सल्फर या फफूंदनाशक 10–14 दिन पर छिड़कें।"
+  ],
+  "why_hi": "गर्म दिन, ठंडी रातें और नम हवा में पत्तियों पर सफ़ेद चूर्ण बनता है।"
+ },
+ "Cherry_(including_sour)___healthy": {
+  "cause_en": "No disease detected.",
+  "why_en": "The leaf shows no sign of infection. Healthy plants stay healthy when water, nutrients and spacing are right.",
+  "cure_en": [
+   "Keep watering at the base, not on the leaves.",
+   "Inspect the plant every 2 days.",
+   "Keep weeds and fallen leaves out of the field."
+  ],
+  "cause_hi": "कोई रोग नहीं मिला।",
+  "cure_hi": [
+   "पानी जड़ में दें, पत्तियों पर नहीं।",
+   "हर 2 दिन में पौधे की जाँच करें।",
+   "खरपतवार और गिरी हुई पत्तियाँ खेत से हटाएँ।"
+  ],
+  "why_hi": "पत्ती में कोई संक्रमण नहीं है।"
+ },
+ "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+  "cause_en": "Fungus (Cercospora zeae-maydis)",
+  "why_en": "Spreads on maize residue and in warm, humid weather with long leaf wetness.",
+  "cure_en": [
+   "Rotate maize with a non-host crop next season.",
+   "Plough in or remove crop residue after harvest.",
+   "Use resistant hybrids.",
+   "Spray a recommended fungicide (for example strobilurin or triazole) when lesions reach the upper leaves."
+  ],
+  "cause_hi": "फफूंद (Cercospora zeae-maydis)",
+  "cure_hi": [
+   "अगले सीज़न में मक्का की जगह दूसरी फसल लगाएँ।",
+   "कटाई के बाद अवशेष जोतकर दबाएँ या हटाएँ।",
+   "प्रतिरोधी संकर किस्में लगाएँ।",
+   "ऊपर की पत्तियों पर धब्बे दिखें तो फफूंदनाशक छिड़कें।"
+  ],
+  "why_hi": "पिछली फसल के अवशेष और गर्म, नम मौसम में पत्तियाँ देर तक गीली रहने से फैलता है।"
+ },
+ "Corn_(maize)___Common_rust_": {
+  "cause_en": "Fungus (Puccinia sorghi)",
+  "why_en": "Wind carries spores over long distances. Cool, humid nights favour it.",
+  "cure_en": [
+   "Plant resistant hybrids, the most effective control.",
+   "Spray a recommended fungicide only if rust spreads quickly on the upper leaves.",
+   "Plant early so the crop matures before peak infection."
+  ],
+  "cause_hi": "फफूंद (Puccinia sorghi)",
+  "cure_hi": [
+   "प्रतिरोधी संकर किस्में सबसे अच्छा उपाय हैं।",
+   "रस्ट तेज़ी से ऊपर फैले तो ही फफूंदनाशक छिड़कें।",
+   "जल्दी बोएँ ताकि फसल संक्रमण से पहले पक जाए।"
+  ],
+  "why_hi": "हवा बीजाणुओं को दूर तक ले जाती है। ठंडी, नम रातें इसे बढ़ाती हैं।"
+ },
+ "Corn_(maize)___Northern_Leaf_Blight": {
+  "cause_en": "Fungus (Exserohilum turcicum)",
+  "why_en": "Cool, wet weather and residue from the previous crop spread the disease.",
+  "cure_en": [
+   "Use resistant hybrids.",
+   "Rotate crops and remove residue.",
+   "Spray a recommended fungicide at the first lesions, especially if lesions appear before silking."
+  ],
+  "cause_hi": "फफूंद (Exserohilum turcicum)",
+  "cure_hi": [
+   "प्रतिरोधी संकर किस्में लगाएँ।",
+   "फसल चक्र अपनाएँ और अवशेष हटाएँ।",
+   "पहले धब्बे दिखते ही फफूंदनाशक छिड़कें।"
+  ],
+  "why_hi": "ठंडा, गीला मौसम और पिछली फसल के अवशेष इसे फैलाते हैं।"
+ },
+ "Corn_(maize)___healthy": {
+  "cause_en": "No disease detected.",
+  "why_en": "The leaf shows no sign of infection. Healthy plants stay healthy when water, nutrients and spacing are right.",
+  "cure_en": [
+   "Keep watering at the base, not on the leaves.",
+   "Inspect the plant every 2 days.",
+   "Keep weeds and fallen leaves out of the field."
+  ],
+  "cause_hi": "कोई रोग नहीं मिला।",
+  "cure_hi": [
+   "पानी जड़ में दें, पत्तियों पर नहीं।",
+   "हर 2 दिन में पौधे की जाँच करें।",
+   "खरपतवार और गिरी हुई पत्तियाँ खेत से हटाएँ।"
+  ],
+  "why_hi": "पत्ती में कोई संक्रमण नहीं है।"
+ },
+ "Grape___Black_rot": {
+  "cause_en": "Fungus (Guignardia bidwellii)",
+  "why_en": "Spreads in warm, wet spring weather and infects young shoots and berries.",
+  "cure_en": [
+   "Remove mummified berries and infected canes.",
+   "Keep the canopy open with pruning.",
+   "Spray a recommended fungicide from bud burst until berries are pea-sized."
+  ],
+  "cause_hi": "फफूंद (Guignardia bidwellii)",
+  "cure_hi": [
+   "सूखे दाने और संक्रमित टहनियाँ हटाएँ।",
+   "छंटाई से बेल की छतरी खुली रखें।",
+   "कली फूटने से मटर के दाने जितने होने तक फफूंदनाशक छिड़कें।"
+  ],
+  "why_hi": "गर्म, गीले बसंत में नई टहनियों और दानों पर संक्रमण होता है।"
+ },
+ "Grape___Esca_(Black_Measles)": {
+  "cause_en": "Fungal complex in the wood of the vine",
+  "why_en": "Enters through pruning wounds and affects the vine over several years.",
+  "cure_en": [
+   "There is no reliable chemical cure once a vine shows strong symptoms.",
+   "Remove and burn badly infected vines.",
+   "Disinfect pruning tools between vines.",
+   "Prune in dry weather and seal large cuts."
+  ],
+  "cause_hi": "बेल की लकड़ी में फफूंद का समूह",
+  "cure_hi": [
+   "जिस बेल में गंभीर लक्षण हों, उसे हटाकर जला दें।",
+   "कटाई के औज़ार हर बेल के बीच साफ़ करें।",
+   "सूखे मौसम में छंटाई करें और बड़े कटाव पर लेप लगाएँ।"
+  ],
+  "why_hi": "छंटाई के घावों से लकड़ी में घुसता है और कई सालों में बेल को कमज़ोर करता है।"
+ },
+ "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+  "cause_en": "Fungus (Isariopsis)",
+  "why_en": "Warm, humid conditions and leaves that stay wet at night.",
+  "cure_en": [
+   "Remove fallen leaves.",
+   "Improve air flow in the canopy.",
+   "Spray a recommended copper or mancozeb fungicide at the first spots."
+  ],
+  "cause_hi": "फफूंद (Isariopsis)",
+  "cure_hi": [
+   "गिरी हुई पत्तियाँ हटाएँ।",
+   "बेल में हवा का बहाव सुधारें।",
+   "पहले धब्बों पर कॉपर या मैंकोज़ेब फफूंदनाशक छिड़कें।"
+  ],
+  "why_hi": "गर्म, नम मौसम और रात में देर तक गीली पत्तियाँ इसे बढ़ाती हैं।"
+ },
+ "Grape___healthy": {
+  "cause_en": "No disease detected.",
+  "why_en": "The leaf shows no sign of infection. Healthy plants stay healthy when water, nutrients and spacing are right.",
+  "cure_en": [
+   "Keep watering at the base, not on the leaves.",
+   "Inspect the plant every 2 days.",
+   "Keep weeds and fallen leaves out of the field."
+  ],
+  "cause_hi": "कोई रोग नहीं मिला।",
+  "cure_hi": [
+   "पानी जड़ में दें, पत्तियों पर नहीं।",
+   "हर 2 दिन में पौधे की जाँच करें।",
+   "खरपतवार और गिरी हुई पत्तियाँ खेत से हटाएँ।"
+  ],
+  "why_hi": "पत्ती में कोई संक्रमण नहीं है।"
+ },
+ "Orange___Haunglongbing_(Citrus_greening)": {
+  "cause_en": "Bacteria (Candidatus Liberibacter), spread by the Asian citrus psyllid insect",
+  "why_en": "The psyllid feeds on young leaves and passes the bacteria to the tree.",
+  "cure_en": [
+   "There is no cure. Infected trees decline over time.",
+   "Remove severely infected trees to stop spread.",
+   "Control the psyllid with recommended insecticide sprays on new flush.",
+   "Use certified disease-free nursery plants."
+  ],
+  "cause_hi": "बैक्टीरिया (Candidatus Liberibacter), जो एशियन सिट्रस साइलिड कीट से फैलता है",
+  "cure_hi": [
+   "इसका कोई इलाज नहीं है। संक्रमित पेड़ धीरे-धीरे कमज़ोर होते हैं।",
+   "गंभीर रूप से संक्रमित पेड़ हटाएँ ताकि फैलाव रुके।",
+   "नई कोंपलों पर कीटनाशक से साइलिड कीट नियंत्रित करें।",
+   "केवल प्रमाणित रोगमुक्त पौधे लगाएँ।"
+  ],
+  "why_hi": "एशियन सिट्रस साइलिड कीट नई कोंपलों से रस चूसते समय बैक्टीरिया फैलाता है।"
+ },
+ "Peach___Bacterial_spot": {
+  "cause_en": "Bacteria (Xanthomonas arboricola)",
+  "why_en": "Spreads in wind-blown rain and infects leaves and fruit through small openings.",
+  "cure_en": [
+   "Plant resistant varieties.",
+   "Use a copper spray at leaf fall and bud swell.",
+   "Avoid overhead watering.",
+   "Remove infected twigs in dry weather."
+  ],
+  "cause_hi": "बैक्टीरिया (Xanthomonas arboricola)",
+  "cure_hi": [
+   "प्रतिरोधी किस्में लगाएँ।",
+   "पत्ते गिरते समय और कली फूलते समय कॉपर स्प्रे करें।",
+   "ऊपर से पानी देने से बचें।",
+   "सूखे मौसम में संक्रमित टहनियाँ हटाएँ।"
+  ],
+  "why_hi": "हवा के साथ आई बारिश छोटे छिद्रों से बैक्टीरिया पत्तियों और फल में पहुँचाती है।"
+ },
+ "Peach___healthy": {
+  "cause_en": "No disease detected.",
+  "why_en": "The leaf shows no sign of infection. Healthy plants stay healthy when water, nutrients and spacing are right.",
+  "cure_en": [
+   "Keep watering at the base, not on the leaves.",
+   "Inspect the plant every 2 days.",
+   "Keep weeds and fallen leaves out of the field."
+  ],
+  "cause_hi": "कोई रोग नहीं मिला।",
+  "cure_hi": [
+   "पानी जड़ में दें, पत्तियों पर नहीं।",
+   "हर 2 दिन में पौधे की जाँच करें।",
+   "खरपतवार और गिरी हुई पत्तियाँ खेत से हटाएँ।"
+  ],
+  "why_hi": "पत्ती में कोई संक्रमण नहीं है।"
+ },
+ "Pepper,_bell___Bacterial_spot": {
+  "cause_en": "Bacteria (Xanthomonas)",
+  "why_en": "Spreads with splashing water, on tools and on infected seed.",
+  "cure_en": [
+   "Use certified disease-free seed and transplants.",
+   "Avoid working in wet fields.",
+   "Spray a copper-based bactericide at the first spots.",
+   "Rotate away from peppers and tomatoes for at least 2 years."
+  ],
+  "cause_hi": "बैक्टीरिया (Xanthomonas)",
+  "cure_hi": [
+   "प्रमाणित रोगमुक्त बीज और पौध लगाएँ।",
+   "गीले खेत में काम करने से बचें।",
+   "पहले धब्बों पर कॉपर बैक्टीरियानाशक छिड़कें।",
+   "कम से कम 2 साल मिर्च और टमाटर की जगह दूसरी फसल लगाएँ।"
+  ],
+  "why_hi": "पानी के छींटों, औज़ारों और संक्रमित बीज से फैलता है।"
+ },
+ "Pepper,_bell___healthy": {
+  "cause_en": "No disease detected.",
+  "why_en": "The leaf shows no sign of infection. Healthy plants stay healthy when water, nutrients and spacing are right.",
+  "cure_en": [
+   "Keep watering at the base, not on the leaves.",
+   "Inspect the plant every 2 days.",
+   "Keep weeds and fallen leaves out of the field."
+  ],
+  "cause_hi": "कोई रोग नहीं मिला।",
+  "cure_hi": [
+   "पानी जड़ में दें, पत्तियों पर नहीं।",
+   "हर 2 दिन में पौधे की जाँच करें।",
+   "खरपतवार और गिरी हुई पत्तियाँ खेत से हटाएँ।"
+  ],
+  "why_hi": "पत्ती में कोई संक्रमण नहीं है।"
+ },
+ "Potato___Early_blight": {
+  "cause_en": "Fungus (Alternaria solani)",
+  "why_en": "Warm, humid days and plants already stressed by low nitrogen or drought.",
+  "cure_en": [
+   "Remove lower infected leaves.",
+   "Keep the crop well fed and watered to reduce stress.",
+   "Spray a recommended fungicide (mancozeb or chlorothalonil) every 7–10 days once symptoms begin.",
+   "Rotate potatoes with a non-solanaceous crop."
+  ],
+  "cause_hi": "फफूंद (Alternaria solani)",
+  "cure_hi": [
+   "नीचे की संक्रमित पत्तियाँ हटाएँ।",
+   "फसल को सही खाद और पानी दें ताकि तनाव कम हो।",
+   "लक्षण दिखते ही मैंकोज़ेब या क्लोरोथालोनिल 7–10 दिन पर छिड़कें।",
+   "आलू की जगह दूसरी फसल का चक्र अपनाएँ।"
+  ],
+  "why_hi": "गर्म, नम दिन और पोषक तत्वों या पानी की कमी से तनावग्रस्त पौधे इसके लिए आसान होते हैं।"
+ },
+ "Potato___Late_blight": {
+  "cause_en": "Water mould (Phytophthora infestans)",
+  "why_en": "Cool, wet, misty weather spreads it fast. It can destroy a field in days.",
+  "cure_en": [
+   "Act quickly. Remove and destroy infected plants and tubers.",
+   "Spray a recommended late-blight fungicide (for example metalaxyl-based or copper) as soon as it is seen, and repeat in wet weather.",
+   "Use certified seed and avoid overhead irrigation.",
+   "Harvest in dry weather and store tubers dry."
+  ],
+  "cause_hi": "जल-फफूंद (Phytophthora infestans)",
+  "cure_hi": [
+   "तुरंत कार्रवाई करें। संक्रमित पौधे और कंद हटाकर नष्ट करें।",
+   "दिखते ही मेटालैक्सिल या कॉपर आधारित फफूंदनाशक छिड़कें और गीले मौसम में दोहराएँ।",
+   "प्रमाणित बीज लगाएँ और ऊपर से सिंचाई से बचें।",
+   "सूखे मौसम में खुदाई करें और कंद सूखे में रखें।"
+  ],
+  "why_hi": "ठंडा, गीला और कोहरे वाला मौसम इसे बहुत तेज़ी से फैलाता है।"
+ },
+ "Potato___healthy": {
+  "cause_en": "No disease detected.",
+  "why_en": "The leaf shows no sign of infection. Healthy plants stay healthy when water, nutrients and spacing are right.",
+  "cure_en": [
+   "Keep watering at the base, not on the leaves.",
+   "Inspect the plant every 2 days.",
+   "Keep weeds and fallen leaves out of the field."
+  ],
+  "cause_hi": "कोई रोग नहीं मिला।",
+  "cure_hi": [
+   "पानी जड़ में दें, पत्तियों पर नहीं।",
+   "हर 2 दिन में पौधे की जाँच करें।",
+   "खरपतवार और गिरी हुई पत्तियाँ खेत से हटाएँ।"
+  ],
+  "why_hi": "पत्ती में कोई संक्रमण नहीं है।"
+ },
+ "Raspberry___healthy": {
+  "cause_en": "No disease detected.",
+  "why_en": "The leaf shows no sign of infection. Healthy plants stay healthy when water, nutrients and spacing are right.",
+  "cure_en": [
+   "Keep watering at the base, not on the leaves.",
+   "Inspect the plant every 2 days.",
+   "Keep weeds and fallen leaves out of the field."
+  ],
+  "cause_hi": "कोई रोग नहीं मिला।",
+  "cure_hi": [
+   "पानी जड़ में दें, पत्तियों पर नहीं।",
+   "हर 2 दिन में पौधे की जाँच करें।",
+   "खरपतवार और गिरी हुई पत्तियाँ खेत से हटाएँ।"
+  ],
+  "why_hi": "पत्ती में कोई संक्रमण नहीं है।"
+ },
+ "Soybean___healthy": {
+  "cause_en": "No disease detected.",
+  "why_en": "The leaf shows no sign of infection. Healthy plants stay healthy when water, nutrients and spacing are right.",
+  "cure_en": [
+   "Keep watering at the base, not on the leaves.",
+   "Inspect the plant every 2 days.",
+   "Keep weeds and fallen leaves out of the field."
+  ],
+  "cause_hi": "कोई रोग नहीं मिला।",
+  "cure_hi": [
+   "पानी जड़ में दें, पत्तियों पर नहीं।",
+   "हर 2 दिन में पौधे की जाँच करें।",
+   "खरपतवार और गिरी हुई पत्तियाँ खेत से हटाएँ।"
+  ],
+  "why_hi": "पत्ती में कोई संक्रमण नहीं है।"
+ },
+ "Squash___Powdery_mildew": {
+  "cause_en": "Fungus (Podosphaera xanthii)",
+  "why_en": "White powder on leaves in dry, warm days and humid nights.",
+  "cure_en": [
+   "Remove heavily infected leaves.",
+   "Water at the base in the morning.",
+   "Spray sulphur or a recommended fungicide at first sign, every 7–10 days."
+  ],
+  "cause_hi": "फफूंद (Podosphaera xanthii)",
+  "cure_hi": [
+   "ज़्यादा संक्रमित पत्तियाँ हटाएँ।",
+   "सुबह जड़ में पानी दें।",
+   "पहला लक्षण दिखते ही सल्फर या फफूंदनाशक 7–10 दिन पर छिड़कें।"
+  ],
+  "why_hi": "सूखे, गर्म दिन और नम रातों में पत्तियों पर सफ़ेद चूर्ण बनता है।"
+ },
+ "Strawberry___Leaf_scorch": {
+  "cause_en": "Fungus (Diplocarpon earlianum)",
+  "why_en": "Spreads in wet weather and dense plantings.",
+  "cure_en": [
+   "Remove old and infected leaves after harvest.",
+   "Plant with good spacing.",
+   "Spray a recommended fungicide during wet weather."
+  ],
+  "cause_hi": "फफूंद (Diplocarpon earlianum)",
+  "cure_hi": [
+   "कटाई के बाद पुरानी और संक्रमित पत्तियाँ हटाएँ।",
+   "पौधों के बीच सही दूरी रखें।",
+   "गीले मौसम में फफूंदनाशक छिड़कें।"
+  ],
+  "why_hi": "गीले मौसम और घनी बुवाई में फैलता है।"
+ },
+ "Strawberry___healthy": {
+  "cause_en": "No disease detected.",
+  "why_en": "The leaf shows no sign of infection. Healthy plants stay healthy when water, nutrients and spacing are right.",
+  "cure_en": [
+   "Keep watering at the base, not on the leaves.",
+   "Inspect the plant every 2 days.",
+   "Keep weeds and fallen leaves out of the field."
+  ],
+  "cause_hi": "कोई रोग नहीं मिला।",
+  "cure_hi": [
+   "पानी जड़ में दें, पत्तियों पर नहीं।",
+   "हर 2 दिन में पौधे की जाँच करें।",
+   "खरपतवार और गिरी हुई पत्तियाँ खेत से हटाएँ।"
+  ],
+  "why_hi": "पत्ती में कोई संक्रमण नहीं है।"
+ },
+ "Tomato___Bacterial_spot": {
+  "cause_en": "Bacteria (Xanthomonas)",
+  "why_en": "Spreads with rain splash and on seed and tools in warm, wet weather.",
+  "cure_en": [
+   "Use disease-free seed and transplants.",
+   "Avoid overhead watering and handling wet plants.",
+   "Spray a copper-based bactericide from the first symptoms.",
+   "Rotate with a non-solanaceous crop for 2 years."
+  ],
+  "cause_hi": "बैक्टीरिया (Xanthomonas)",
+  "cure_hi": [
+   "रोगमुक्त बीज और पौध लगाएँ।",
+   "ऊपर से पानी देने और गीले पौधों को छूने से बचें।",
+   "पहले लक्षण पर कॉपर बैक्टीरियानाशक छिड़कें।",
+   "2 साल तक दूसरी फसल का चक्र अपनाएँ।"
+  ],
+  "why_hi": "गर्म, गीले मौसम में बारिश के छींटों, बीज और औज़ारों से फैलता है।"
+ },
+ "Tomato___Early_blight": {
+  "cause_en": "Fungus (Alternaria solani)",
+  "why_en": "Warm, humid weather and plants stressed by low nutrients or water.",
+  "cure_en": [
+   "Remove lower infected leaves and destroy them.",
+   "Mulch to stop soil splash.",
+   "Spray a recommended fungicide (mancozeb or chlorothalonil) every 7–10 days.",
+   "Keep plants fed and watered evenly."
+  ],
+  "cause_hi": "फफूंद (Alternaria solani)",
+  "cure_hi": [
+   "नीचे की संक्रमित पत्तियाँ हटाकर नष्ट करें।",
+   "मल्चिंग करें ताकि मिट्टी के छींटे पौधे पर न पड़ें।",
+   "मैंकोज़ेब या क्लोरोथालोनिल 7–10 दिन पर छिड़कें।",
+   "पौधों को समान खाद और पानी दें।"
+  ],
+  "why_hi": "गर्म, नम मौसम और पोषक तत्व या पानी की कमी से तनावग्रस्त पौधे संवेदनशील होते हैं।"
+ },
+ "Tomato___Late_blight": {
+  "cause_en": "Water mould (Phytophthora infestans)",
+  "why_en": "Cool, wet, misty weather spreads it very fast.",
+  "cure_en": [
+   "Remove and destroy infected plants at once.",
+   "Spray a recommended late-blight fungicide as soon as it is seen and repeat in wet weather.",
+   "Avoid overhead watering and improve air flow.",
+   "Do not compost infected plants."
+  ],
+  "cause_hi": "जल-फफूंद (Phytophthora infestans)",
+  "cure_hi": [
+   "संक्रमित पौधे तुरंत हटाकर नष्ट करें।",
+   "दिखते ही फफूंदनाशक छिड़कें और गीले मौसम में दोहराएँ।",
+   "ऊपर से पानी देने से बचें और हवा का बहाव सुधारें।",
+   "संक्रमित पौधे खाद में न डालें।"
+  ],
+  "why_hi": "ठंडा, गीला और कोहरे वाला मौसम इसे बहुत तेज़ी से फैलाता है।"
+ },
+ "Tomato___Leaf_Mold": {
+  "cause_en": "Fungus (Passalora fulva)",
+  "why_en": "High humidity in greenhouses or dense crops keeps leaves wet.",
+  "cure_en": [
+   "Improve ventilation and reduce humidity.",
+   "Remove lower infected leaves.",
+   "Spray a recommended fungicide at the first yellow patches on the top side of leaves."
+  ],
+  "cause_hi": "फफूंद (Passalora fulva)",
+  "cure_hi": [
+   "हवा का बहाव बढ़ाएँ और नमी कम करें।",
+   "नीचे की संक्रमित पत्तियाँ हटाएँ।",
+   "पत्ती के ऊपरी हिस्से पर पीले धब्बे दिखते ही फफूंदनाशक छिड़कें।"
+  ],
+  "why_hi": "ग्रीनहाउस या घनी फसल में ज़्यादा नमी से पत्तियाँ देर तक गीली रहती हैं।"
+ },
+ "Tomato___Septoria_leaf_spot": {
+  "cause_en": "Fungus (Septoria lycopersici)",
+  "why_en": "Wet leaves and warm weather spread spores from the lower leaves upward.",
+  "cure_en": [
+   "Remove lower leaves as soon as spots appear.",
+   "Mulch and water at the base.",
+   "Spray a recommended fungicide (chlorothalonil or mancozeb) every 7–10 days.",
+   "Rotate crops."
+  ],
+  "cause_hi": "फफूंद (Septoria lycopersici)",
+  "cure_hi": [
+   "धब्बे दिखते ही नीचे की पत्तियाँ हटाएँ।",
+   "मल्चिंग करें और जड़ में पानी दें।",
+   "क्लोरोथालोनिल या मैंकोज़ेब 7–10 दिन पर छिड़कें।",
+   "फसल चक्र अपनाएँ।"
+  ],
+  "why_hi": "गीली पत्तियाँ और गर्म मौसम नीचे की पत्तियों से ऊपर तक बीजाणु फैलाते हैं।"
+ },
+ "Tomato___Spider_mites Two-spotted_spider_mite": {
+  "cause_en": "Mites (Tetranychus urticae)",
+  "why_en": "Hot, dry, dusty conditions let mites multiply quickly.",
+  "cure_en": [
+   "Wash the undersides of leaves with a strong water spray.",
+   "Increase humidity and keep plants watered.",
+   "Use a recommended miticide or neem-based spray, covering the leaf undersides.",
+   "Remove heavily infested leaves."
+  ],
+  "cause_hi": "छोटे कीट (Tetranychus urticae)",
+  "cure_hi": [
+   "पत्तियों के नीचे तेज़ पानी की धार मारें।",
+   "नमी बढ़ाएँ और पौधों को पानी दें।",
+   "पत्तियों के नीचे नीम आधारित या अनुमोदित मिटिसाइड छिड़कें।",
+   "ज़्यादा प्रभावित पत्तियाँ हटाएँ।"
+  ],
+  "why_hi": "गर्म, सूखा और धूल भरा मौसम कीटों को तेज़ी से बढ़ने देता है।"
+ },
+ "Tomato___Target_Spot": {
+  "cause_en": "Fungus (Corynespora cassiicola)",
+  "why_en": "Warm, humid weather and wet foliage.",
+  "cure_en": [
+   "Remove infected lower leaves.",
+   "Improve air flow and avoid wetting leaves.",
+   "Spray a recommended fungicide (chlorothalonil or mancozeb) at first spots."
+  ],
+  "cause_hi": "फफूंद (Corynespora cassiicola)",
+  "cure_hi": [
+   "नीचे की संक्रमित पत्तियाँ हटाएँ।",
+   "हवा का बहाव सुधारें और पत्तियों को गीला होने से बचाएँ।",
+   "पहले धब्बों पर क्लोरोथालोनिल या मैंकोज़ेब छिड़कें।"
+  ],
+  "why_hi": "गर्म, नम मौसम और गीली पत्तियाँ इसे बढ़ाती हैं।"
+ },
+ "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+  "cause_en": "Virus, spread by whitefly insects",
+  "why_en": "Whiteflies carry the virus from infected plants to healthy ones.",
+  "cure_en": [
+   "There is no cure for the virus. Remove and destroy infected plants early.",
+   "Control whiteflies with yellow sticky traps and recommended insecticide on leaf undersides.",
+   "Use resistant varieties and a physical barrier such as insect netting in the nursery."
+  ],
+  "cause_hi": "वायरस, जो सफ़ेद मक्खी से फैलता है",
+  "cure_hi": [
+   "वायरस का इलाज नहीं है। संक्रमित पौधे जल्दी हटाकर नष्ट करें।",
+   "पीले चिपचिपे ट्रैप लगाएँ और पत्तियों के नीचे सफ़ेद मक्खी के लिए कीटनाशक छिड़कें।",
+   "प्रतिरोधी किस्में और नर्सरी में जाली का उपयोग करें।"
+  ],
+  "why_hi": "सफ़ेद मक्खी संक्रमित पौधे से वायरस लेकर स्वस्थ पौधों तक पहुँचाती है।"
+ },
+ "Tomato___Tomato_mosaic_virus": {
+  "cause_en": "Virus, spread by touch, tools and seed",
+  "why_en": "Hands, tools and infected seed or tobacco residue carry it.",
+  "cure_en": [
+   "There is no cure. Remove and destroy infected plants.",
+   "Wash hands and tools with soap after handling plants, and before touching healthy plants.",
+   "Use resistant varieties and virus-free seed."
+  ],
+  "cause_hi": "वायरस, जो हाथ, औज़ार और बीज से फैलता है",
+  "cure_hi": [
+   "वायरस का इलाज नहीं है। संक्रमित पौधे हटाकर नष्ट करें।",
+   "पौधों को छूने के बाद और स्वस्थ पौधों से पहले हाथ और औज़ार साबुन से धोएँ।",
+   "प्रतिरोधी किस्में और वायरस-मुक्त बीज लगाएँ।"
+  ],
+  "why_hi": "हाथ, औज़ार, संक्रमित बीज या तंबाकू के अवशेष से फैलता है।"
+ },
+ "Tomato___healthy": {
+  "cause_en": "No disease detected.",
+  "why_en": "The leaf shows no sign of infection. Healthy plants stay healthy when water, nutrients and spacing are right.",
+  "cure_en": [
+   "Keep watering at the base, not on the leaves.",
+   "Inspect the plant every 2 days.",
+   "Keep weeds and fallen leaves out of the field."
+  ],
+  "cause_hi": "कोई रोग नहीं मिला।",
+  "cure_hi": [
+   "पानी जड़ में दें, पत्तियों पर नहीं।",
+   "हर 2 दिन में पौधे की जाँच करें।",
+   "खरपतवार और गिरी हुई पत्तियाँ खेत से हटाएँ।"
+  ],
+  "why_hi": "पत्ती में कोई संक्रमण नहीं है।"
+ }
+}

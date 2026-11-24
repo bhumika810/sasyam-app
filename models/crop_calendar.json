@@ -1,0 +1,222 @@
+{
+ "rice": {
+  "season_en": "Kharif (monsoon)",
+  "season_hi": "खरीफ (मानसून)",
+  "sow_en": "June–July, with transplanting in July–August",
+  "sow_hi": "जून–जुलाई; जुलाई–अगस्त में रोपाई",
+  "harvest_en": "October–November",
+  "harvest_hi": "अक्टूबर–नवंबर",
+  "best_time_en": "Sow when the monsoon rain is steady, and keep fields flooded during tillering.",
+  "best_time_hi": "जब मानसून की बारिश नियमित हो तब बोएँ; कल्ले फूटते समय खेत में पानी रखें।"
+ },
+ "maize": {
+  "season_en": "Kharif and Zaid",
+  "season_hi": "खरीफ और ज़ायद",
+  "sow_en": "June–July (kharif) or February–March (zaid)",
+  "sow_hi": "जून–जुलाई (खरीफ) या फरवरी–मार्च (ज़ायद)",
+  "harvest_en": "September–October, or May–June",
+  "harvest_hi": "सितंबर–अक्टूबर, या मई–जून",
+  "best_time_en": "Sow after the first good rain, and avoid flowering during very hot or dry spells.",
+  "best_time_hi": "पहली अच्छी बारिश के बाद बोएँ; बहुत गर्म या सूखे समय में फूल आने से बचाएँ।"
+ },
+ "chickpea": {
+  "season_en": "Rabi (winter)",
+  "season_hi": "रबी (सर्दी)",
+  "sow_en": "October–November",
+  "sow_hi": "अक्टूबर–नवंबर",
+  "harvest_en": "March–April",
+  "harvest_hi": "मार्च–अप्रैल",
+  "best_time_en": "Sow in cool soil, and avoid irrigation during flowering.",
+  "best_time_hi": "ठंडी मिट्टी में बोएँ; फूल आने के समय सिंचाई से बचें।"
+ },
+ "kidneybeans": {
+  "season_en": "Rabi or Kharif, depending on region",
+  "season_hi": "क्षेत्र के अनुसार रबी या खरीफ",
+  "sow_en": "October–November (rabi) or June–July (kharif)",
+  "sow_hi": "अक्टूबर–नवंबर (रबी) या जून–जुलाई (खरीफ)",
+  "harvest_en": "February–March or September–October",
+  "harvest_hi": "फरवरी–मार्च या सितंबर–अक्टूबर",
+  "best_time_en": "Cool, dry weather gives the best pods.",
+  "best_time_hi": "ठंडा, सूखा मौसम सबसे अच्छी फली देता है।"
+ },
+ "pigeonpeas": {
+  "season_en": "Kharif (long duration)",
+  "season_hi": "खरीफ (लंबी अवधि)",
+  "sow_en": "June–July",
+  "sow_hi": "जून–जुलाई",
+  "harvest_en": "December–February",
+  "harvest_hi": "दिसंबर–फरवरी",
+  "best_time_en": "Sow with the first monsoon rain; it tolerates dry spells well.",
+  "best_time_hi": "मानसून की पहली बारिश के साथ बोएँ; यह सूखा अच्छी तरह सहती है।"
+ },
+ "mothbeans": {
+  "season_en": "Kharif, drought-tolerant",
+  "season_hi": "खरीफ, सूखा-सहिष्णु",
+  "sow_en": "June–July",
+  "sow_hi": "जून–जुलाई",
+  "harvest_en": "September–October",
+  "harvest_hi": "सितंबर–अक्टूबर",
+  "best_time_en": "Good for low-rain areas; sow after the first monsoon rain.",
+  "best_time_hi": "कम बारिश वाले इलाकों के लिए अच्छी; पहली मानसूनी बारिश के बाद बोएँ।"
+ },
+ "mungbean": {
+  "season_en": "Kharif and Zaid",
+  "season_hi": "खरीफ और ज़ायद",
+  "sow_en": "June–July, or March–April",
+  "sow_hi": "जून–जुलाई, या मार्च–अप्रैल",
+  "harvest_en": "August–September, or May–June",
+  "harvest_hi": "अगस्त–सितंबर, या मई–जून",
+  "best_time_en": "Short-duration crop; avoid waterlogging.",
+  "best_time_hi": "कम अवधि की फसल; जलभराव से बचें।"
+ },
+ "blackgram": {
+  "season_en": "Kharif and Zaid",
+  "season_hi": "खरीफ और ज़ायद",
+  "sow_en": "June–July, or March–April",
+  "sow_hi": "जून–जुलाई, या मार्च–अप्रैल",
+  "harvest_en": "September, or May–June",
+  "harvest_hi": "सितंबर, या मई–जून",
+  "best_time_en": "Sow with the monsoon; avoid waterlogging.",
+  "best_time_hi": "मानसून के साथ बोएँ; जलभराव से बचें।"
+ },
+ "lentil": {
+  "season_en": "Rabi (winter)",
+  "season_hi": "रबी (सर्दी)",
+  "sow_en": "October–November",
+  "sow_hi": "अक्टूबर–नवंबर",
+  "harvest_en": "March–April",
+  "harvest_hi": "मार्च–अप्रैल",
+  "best_time_en": "Sow in cool conditions; avoid heavy irrigation.",
+  "best_time_hi": "ठंडे मौसम में बोएँ; ज़्यादा सिंचाई से बचें।"
+ },
+ "pomegranate": {
+  "season_en": "Perennial; main flowering in monsoon and winter",
+  "season_hi": "बहुवर्षीय; मुख्य फूल मानसून और सर्दी में",
+  "sow_en": "Plant saplings in July–August or February–March",
+  "sow_hi": "पौधे जुलाई–अगस्त या फरवरी–मार्च में लगाएँ",
+  "harvest_en": "Depends on the variety, usually 5–7 months after flowering",
+  "harvest_hi": "किस्म पर निर्भर; आमतौर पर फूल आने के 5–7 महीने बाद",
+  "best_time_en": "Dry weather at fruit ripening gives better colour.",
+  "best_time_hi": "फल पकते समय सूखा मौसम रंग बेहतर देता है।"
+ },
+ "banana": {
+  "season_en": "Perennial; plant any time with irrigation",
+  "season_hi": "बहुवर्षीय; सिंचाई के साथ कभी भी लगाएँ",
+  "sow_en": "Plant suckers in February–May or June–July",
+  "sow_hi": "फरवरी–मई या जून–जुलाई में सकर लगाएँ",
+  "harvest_en": "About 10–12 months after planting",
+  "harvest_hi": "लगाने के लगभग 10–12 महीने बाद",
+  "best_time_en": "Needs steady warmth and water; avoid frost.",
+  "best_time_hi": "लगातार गर्मी और पानी चाहिए; पाले से बचाएँ।"
+ },
+ "mango": {
+  "season_en": "Perennial; flowers in winter",
+  "season_hi": "बहुवर्षीय; सर्दी में फूल",
+  "sow_en": "Plant grafted saplings in July–September",
+  "sow_hi": "कलमी पौधे जुलाई–सितंबर में लगाएँ",
+  "harvest_en": "April–June",
+  "harvest_hi": "अप्रैल–जून",
+  "best_time_en": "Dry weather during flowering improves fruit set.",
+  "best_time_hi": "फूल के समय सूखा मौसम फल लगने में मदद करता है।"
+ },
+ "grapes": {
+  "season_en": "Perennial; pruning in winter",
+  "season_hi": "बहुवर्षीय; सर्दी में छंटाई",
+  "sow_en": "Plant cuttings in January–February",
+  "sow_hi": "कलम जनवरी–फरवरी में लगाएँ",
+  "harvest_en": "March–May, depending on variety",
+  "harvest_hi": "किस्म के अनुसार मार्च–मई",
+  "best_time_en": "Dry weather near harvest prevents berry splitting.",
+  "best_time_hi": "कटाई के समय सूखा मौसम दाने फटने से बचाता है।"
+ },
+ "watermelon": {
+  "season_en": "Zaid (summer)",
+  "season_hi": "ज़ायद (गर्मी)",
+  "sow_en": "January–February",
+  "sow_hi": "जनवरी–फरवरी",
+  "harvest_en": "April–May",
+  "harvest_hi": "अप्रैल–मई",
+  "best_time_en": "Needs warm, sunny weather and well-drained sandy soil.",
+  "best_time_hi": "गर्म, धूप वाला मौसम और अच्छी निकासी वाली रेतीली मिट्टी चाहिए।"
+ },
+ "muskmelon": {
+  "season_en": "Zaid (summer)",
+  "season_hi": "ज़ायद (गर्मी)",
+  "sow_en": "February–March",
+  "sow_hi": "फरवरी–मार्च",
+  "harvest_en": "May–June",
+  "harvest_hi": "मई–जून",
+  "best_time_en": "Warm, dry weather gives sweeter fruit.",
+  "best_time_hi": "गर्म, सूखा मौसम मीठे फल देता है।"
+ },
+ "apple": {
+  "season_en": "Perennial; needs cold winter",
+  "season_hi": "बहुवर्षीय; ठंडी सर्दी चाहिए",
+  "sow_en": "Plant saplings in December–February",
+  "sow_hi": "पौधे दिसंबर–फरवरी में लगाएँ",
+  "harvest_en": "July–September",
+  "harvest_hi": "जुलाई–सितंबर",
+  "best_time_en": "Needs chilling in winter; not suited to hot plains.",
+  "best_time_hi": "सर्दी में ठंडक चाहिए; गर्म मैदानों के लिए उपयुक्त नहीं।"
+ },
+ "orange": {
+  "season_en": "Perennial; main harvest in winter",
+  "season_hi": "बहुवर्षीय; मुख्य कटाई सर्दी में",
+  "sow_en": "Plant saplings in July–August or February–March",
+  "sow_hi": "पौधे जुलाई–अगस्त या फरवरी–मार्च में लगाएँ",
+  "harvest_en": "November–February",
+  "harvest_hi": "नवंबर–फरवरी",
+  "best_time_en": "Dry weather at harvest keeps fruit quality high.",
+  "best_time_hi": "कटाई के समय सूखा मौसम फल की गुणवत्ता बनाए रखता है।"
+ },
+ "papaya": {
+  "season_en": "Perennial; grows year-round in warm areas",
+  "season_hi": "बहुवर्षीय; गर्म इलाकों में पूरे साल",
+  "sow_en": "Plant seedlings in February–March or July–August",
+  "sow_hi": "पौध फरवरी–मार्च या जुलाई–अगस्त में लगाएँ",
+  "harvest_en": "About 9–11 months after planting",
+  "harvest_hi": "लगाने के लगभग 9–11 महीने बाद",
+  "best_time_en": "Avoid waterlogging; it dies in standing water.",
+  "best_time_hi": "जलभराव से बचें; खड़े पानी में पौधा मर जाता है।"
+ },
+ "coconut": {
+  "season_en": "Perennial; any season with irrigation",
+  "season_hi": "बहुवर्षीय; सिंचाई के साथ किसी भी मौसम में",
+  "sow_en": "Plant seedlings in June–September",
+  "sow_hi": "पौधे जून–सितंबर में लगाएँ",
+  "harvest_en": "Every 45–60 days once bearing",
+  "harvest_hi": "फल आने के बाद हर 45–60 दिन में",
+  "best_time_en": "Needs humid coastal-type climate and regular water.",
+  "best_time_hi": "नम तटीय जैसा मौसम और नियमित पानी चाहिए।"
+ },
+ "cotton": {
+  "season_en": "Kharif",
+  "season_hi": "खरीफ",
+  "sow_en": "April–May (irrigated) or June–July (rainfed)",
+  "sow_hi": "अप्रैल–मई (सिंचित) या जून–जुलाई (बारानी)",
+  "harvest_en": "October–January, in picks",
+  "harvest_hi": "अक्टूबर–जनवरी, कई बार में",
+  "best_time_en": "Pick cotton in dry weather, in several rounds.",
+  "best_time_hi": "सूखे मौसम में कई बार में चुनें।"
+ },
+ "jute": {
+  "season_en": "Kharif",
+  "season_hi": "खरीफ",
+  "sow_en": "March–May",
+  "sow_hi": "मार्च–मई",
+  "harvest_en": "July–August",
+  "harvest_hi": "जुलाई–अगस्त",
+  "best_time_en": "Needs warm, humid weather during growth.",
+  "best_time_hi": "बढ़वार के समय गर्म, नम मौसम चाहिए।"
+ },
+ "coffee": {
+  "season_en": "Perennial; flowering after rain in spring",
+  "season_hi": "बहुवर्षीय; बसंत में बारिश के बाद फूल",
+  "sow_en": "Plant seedlings in June–August",
+  "sow_hi": "पौधे जून–अगस्त में लगाएँ",
+  "harvest_en": "November–February",
+  "harvest_hi": "नवंबर–फरवरी",
+  "best_time_en": "Shade and cool hill climate suit coffee best.",
+  "best_time_hi": "छाया और ठंडी पहाड़ी जलवायु कॉफी के लिए सबसे अच्छी है।"
+ }
+}
