@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 
 import i18n as I
 import logic as L
-import market as M
+
 
 load_dotenv()
 
